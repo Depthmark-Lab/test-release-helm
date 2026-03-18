@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Learn-Think-Do/test-release-helm/compare/github-sts-v1.0.0...github-sts-v1.0.1) (2026-03-18)
+
+
+### Features
+
+* Merge pull request [#6](https://github.com/Learn-Think-Do/test-release-helm/issues/6) from Learn-Think-Do/AlexandreODelisle-patch-1 ([84f0fd6](https://github.com/Learn-Think-Do/test-release-helm/commit/84f0fd6ec0f8eb78cb07ada992c6ceb62b2dbb8f))
+
 ## 1.0.0 (2026-03-18)
 
 
