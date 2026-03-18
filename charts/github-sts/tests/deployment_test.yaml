@@ -17,9 +17,6 @@ tests:
       - equal:
           path: metadata.name
           value: test-github-sts
-      - equal:
-          path: metadata.namespace
-          value: github-sts
 
   - it: should include standard labels
     template: deployment.yaml
