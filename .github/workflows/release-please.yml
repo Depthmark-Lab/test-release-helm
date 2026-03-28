@@ -16,6 +16,7 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
+      id-token: write
     outputs:
       helm_release_created: ${{ steps.release.outputs['charts/github-sts--release_created'] }}
       helm_tag_name: ${{ steps.release.outputs['charts/github-sts--tag_name'] }}
